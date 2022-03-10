@@ -6,6 +6,6 @@ Here is my portfolio in brief:
 
 <ul>
   <li> I am currently persuing my B Tech Degree in Computer Engineering at Dharmsinh Desai University, Nadiad, Gujarat.</li>
-  <li> I am very much interested in Web Development and Competitive Coding. </li>
+  <li> I am very much interested in Web Development and Problem solving. </li>
  </ul>
 
