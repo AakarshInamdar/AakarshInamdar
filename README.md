@@ -8,6 +8,5 @@ Here is my portfolio in brief:
   <li> I am currently persuing my B Tech Degree in Computer Engineering at Dharmsinh Desai University, Nadiad, Gujarat.</li>
   <li> I am very much interested in Web Development and Problem solving. </li>
  </ul>
-</br></br>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=AakarshInamdar&theme=highcontrast&show_icons=true&count_private=true)
 
