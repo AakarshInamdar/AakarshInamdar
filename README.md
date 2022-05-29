@@ -10,3 +10,5 @@ Here is my portfolio in brief:
  </ul>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=AakarshInamdar&theme=highcontrast&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact)
+
